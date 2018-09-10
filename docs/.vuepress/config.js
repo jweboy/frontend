@@ -41,6 +41,7 @@ module.exports = {
     repo: 'luichooy/frontend',
     editLinks: true,
     editLinkText: '编辑本页！',
+    docsDir: 'docs',
     prev: true,
     next: true
   }
