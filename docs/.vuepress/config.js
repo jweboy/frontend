@@ -1,6 +1,6 @@
 module.exports = {
   title: ' Front-End Development Specifications',
-  description: '前端开发规范文档123',
+  description: '前端开发规范文档',
   base: '/frontend/',
   head: [
     ['link', {
