@@ -38,7 +38,7 @@ module.exports = {
     ],
     sidebar: 'auto',
     lastUpdated: '上次更新',
-    repo: 'luichooy/FrontEndPD',
+    repo: 'luichooy/frontend',
     editLinks: true,
     editLinkText: '编辑本页！',
     prev: true,
