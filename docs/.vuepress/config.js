@@ -1,7 +1,7 @@
 module.exports = {
   title: ' Front-End Development Specifications',
   description: '前端开发规范文档',
-  base: '/FrontEndPD/',
+  base: '/frontend/',
   head: [
     ['link', {
       rel: 'icon',
